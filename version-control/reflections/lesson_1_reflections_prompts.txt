@@ -2,3 +2,5 @@ When adding a file to Git, first navigate to the directory and then 'LS' to see 
 Use 'Git Add [filename]' to add the file to your commit
 After finishing adding files, type 'Git Commit -m [text to help understand the commit here]
 After committing the change, you can push to master with 'Git Push Origin Master'
+
+asdfasdf
